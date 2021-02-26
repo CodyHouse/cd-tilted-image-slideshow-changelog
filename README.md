@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Tilted Image Slideshow - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Tilted Image Slideshow component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/tilted-image-slideshow)
+- [Info Page](https://codyhouse.co/ds/components/info/tilted-image-slideshow)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
